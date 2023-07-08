@@ -1,6 +1,6 @@
 # Algorithms 
 ### Demystifying the mystery of Computer Science 
-- This repo contains major algorithms for coding interviews
+- This repo contains major algorithms and algorithmic concepts in computer science
 
 - Every branch is dedicated to only one Algorithm
 
